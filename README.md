@@ -2,7 +2,7 @@
 
 Esta é uma aplicação feita a partir do material de apoio do workshop da Linuxtips ministrado pelo Daniel Romero <https://github.com/infoslack/linuxtips-llm>. 
 
-A aplicação faz a ingestão do arquivo PDF da CLT e apresenta uma interface web simples que tira dúvidas sobre a CLT a partir das informações contidas no arquivo, utilizando LLM e fazendo RAG para melhorar as respostas do modelo genérico.
+A aplicação faz a ingestão do arquivo PDF da CLT e apresenta uma interface web simples que tira dúvidas sobre a mesma utilizando LLM e fazendo RAG a partir das informações contidas no arquivo, para melhorar as respostas do modelo genérico.
 
 Para utilizar é necessário ter o python instalado e ter chaves criadas para utilizar a API do OpenAI e no banco de dados vetorial Pinecone. 
 
