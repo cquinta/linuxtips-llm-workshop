@@ -1,6 +1,8 @@
 # Exercício do Workshop
 
-Esta é uma aplicação que faz a ingestão do arquivo PDF da CLT feita a partir do material de apoio do workshop da Linuxtips ministrado pelo Daniel Romero <https://github.com/infoslack/linuxtips-llm>. 
+Esta é uma aplicação feita a partir do material de apoio do workshop da Linuxtips ministrado pelo Daniel Romero <https://github.com/infoslack/linuxtips-llm>. 
+
+A aplicação que faz a ingestão do arquivo PDF da CLT e apresenta uma interface web simples que tira dúvidas sobre a CLT a partir das informações contidada no arquivo utilizando LLM.
 
 Para utilizar é necessário ter o python instalado e ter chaves criadas para utilizar a API do OpenAI e no banco de dados vetorial Pinecone. 
 
