@@ -1,0 +1,9 @@
+openai<1
+langchain
+pinecone-client
+python-dotenv
+tiktoken
+wikipedia
+pypdf
+llmx
+gradio
