@@ -32,5 +32,13 @@ pip install -r requirements.txt
  
 6 - Chamar a aplicação em <http://localhost:7860>
 
+## Exemplo de perguntas: 
+
+- Como funciona o décimo terceiro salário. 
+
+- Em que ano a CLT foi criada.
+
+- Como funcionam as férias remuneradas.
+
 
 
