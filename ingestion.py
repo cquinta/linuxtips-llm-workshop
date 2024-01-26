@@ -25,7 +25,7 @@ pc=pinecone.Pinecone(api_key=os.environ.get('PINECONE_API_KEY'))
 
 index_name = "linuxtips"
 if index_name not in pc.list_indexes():
-    pc.create_index(index_name, dimension=1536, spec=spe)
+    pc.create_index(index_name, dimension=1536, spec=spec)
 
 index = pc.Index(index_name)
 
